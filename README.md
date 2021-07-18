@@ -15,6 +15,8 @@ These ideas which worth millions are sold to Subscribers and the idea presenter 
 
 ![image](https://user-images.githubusercontent.com/86713009/126061870-83d8fce2-605a-4de8-9242-109e8b14ea79.png)
 
+![image](https://user-images.githubusercontent.com/86713009/126061907-2289f811-e589-424d-90f3-c003e53fd4e5.png)
+
 
 ![image](https://user-images.githubusercontent.com/86713009/126058162-d994e95d-413d-4da7-a476-a73bf807a0a7.png)
 
