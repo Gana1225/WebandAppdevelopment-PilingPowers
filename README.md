@@ -56,7 +56,3 @@ Purpose of this Webpage is to let jobless people present their innovative ideas 
 There are so many people having a great talent but no platform to present it. So, we take-up those ideas and make their dreams real.
 
 
-The UI of this webpage is very simple. First they have to register in that by giving their credentials, bank details and ID proofs.
-Then select the domain to which their idea belongs to and present their idea.
-If the given idea already exists then “This idea already exists” is displayed and asks for the new idea. If the idea is successfully accepted then some amount of 100₹ will be transferred to their account.
-
