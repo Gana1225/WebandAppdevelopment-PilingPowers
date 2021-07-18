@@ -1,5 +1,6 @@
 # WebandAppdevelopment-PilingPowers
- Ideas from every corner
+
+
 ![image](https://user-images.githubusercontent.com/86713009/126058679-3986adba-5ae4-4122-85ab-aba6f5c7f39e.png)
 
 
