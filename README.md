@@ -15,12 +15,22 @@ These ideas which worth millions are sold to Subscribers and the idea presenter 
 
 ![image](https://user-images.githubusercontent.com/86713009/126061870-83d8fce2-605a-4de8-9242-109e8b14ea79.png)
 
+![image](https://user-images.githubusercontent.com/86713009/126062131-cea583cd-8d43-4e88-80e2-5058f933759c.png)
+
+
 ![image](https://user-images.githubusercontent.com/86713009/126061907-2289f811-e589-424d-90f3-c003e53fd4e5.png)
 
 
 ![image](https://user-images.githubusercontent.com/86713009/126058162-d994e95d-413d-4da7-a476-a73bf807a0a7.png)
 
 ![image](https://user-images.githubusercontent.com/86713009/126062054-76c6212c-ff9a-492d-9634-5a46031fadd2.png)
+
+![image](https://user-images.githubusercontent.com/86713009/126062108-1d5930c2-cadc-49ca-857f-21a16d387d27.png)
+
+![image](https://user-images.githubusercontent.com/86713009/126062114-2b2c23fc-dce5-472e-b96a-4b9e8d4bc2b0.png)
+
+![image](https://user-images.githubusercontent.com/86713009/126062121-3aa5169f-108b-46a6-9621-0ec6edebdb52.png)
+
 
 Purpose of this Webpage is to let jobless people present their innovative ideas and once it become successful there will be some scope for them to grow.
 There are so many people having a great talent but no platform to present it. So, we take-up those ideas and make their dreams real.
