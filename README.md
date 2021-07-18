@@ -18,4 +18,9 @@ These ideas which worth millions are sold to Subscribers and the idea presenter 
 
 Purpose of this Webpage is to let jobless people present their innovative ideas and once it become successful there will be some scope for them to grow.
 There are so many people having a great talent but no platform to present it. So, we take-up those ideas and make their dreams real.
-![image](https://user-images.githubusercontent.com/86713009/126060501-bdc55b0a-f179-4cf6-926a-f592725d9d66.png)
+
+
+The UI of this webpage is very simple. First they have to register in that by giving their credentials, bank details and ID proofs.
+Then select the domain to which their idea belongs to and present their idea.
+If the given idea already exists then “This idea already exists” is displayed and asks for the new idea. If the idea is successfully accepted then some amount of 100₹ will be transferred to their account.
+
